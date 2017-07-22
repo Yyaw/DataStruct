@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zichaoyang/文档/Code/C++/structdata/tree/AVLTree.cpp
+iostream
+-
+Tools/ReadDataFromFile.h
+/home/zichaoyang/文档/Code/C++/structdata/tree/Tools/ReadDataFromFile.h
+
+/home/zichaoyang/文档/Code/C++/structdata/tree/Tools/ReadDataFromFile.h
+ios
+-
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+assert.h
+-
+

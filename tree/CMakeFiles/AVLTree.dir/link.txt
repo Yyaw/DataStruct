@@ -1,0 +1,1 @@
+g++   -g   CMakeFiles/AVLTree.dir/AVLTree.cpp.o  -o AVLTree -rdynamic 

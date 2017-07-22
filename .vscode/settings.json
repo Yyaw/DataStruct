@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "vector": "cpp",
+        "fstream": "cpp",
+        "string": "cpp",
+        "typeinfo": "cpp",
+        "iosfwd": "cpp",
+        "ios": "cpp"
+    },
+    "cmake.cmakePath": "/usr/bin/cmake"
+}
